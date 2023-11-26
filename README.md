@@ -23,7 +23,7 @@ Each article represented by a centroid in the vector space and similar articles 
 
 # Web Server and User Interface
 
-<img width="226" alt="Screenshot 2023-11-23 at 1 19 50 PM" src="https://github.com/eren-bardak/BBCArticleRecommendation/assets/138029233/6ced7d16-13d1-4180-af43-40b63c9f341a">
+<img width="234" alt="Screenshot 2023-11-23 at 1 19 13 PM" src="https://github.com/eren-bardak/Word2vec-BBCArticleRecommendation/assets/138029233/e6dd2b2e-e0fe-4ede-ada0-095d8118434c">
 
 - Flask Web Server:
     Built to respond to requests for a list of articles and individual articles.
@@ -33,7 +33,7 @@ Each article represented by a centroid in the vector space and similar articles 
     Users can view a list of articles and select one to read the full text.
     Each article page displays the content along with five recommended articles.
   
-<img width="1438" alt="Screenshot 2023-11-23 at 1 20 36 PM" src="https://github.com/eren-bardak/BBCArticleRecommendation/assets/138029233/c3aa261a-3bd6-429b-b131-0af11454c434">
+  <img width="1446" alt="Screenshot 2023-11-23 at 1 18 12 PM" src="https://github.com/eren-bardak/Word2vec-BBCArticleRecommendation/assets/138029233/4c649cab-20ba-4812-8530-e3eae7d88f5f">
 
 - Testing and Validation
     Validated the functionality of doc2vec.py using PyTest (test_doc2vec.py).
