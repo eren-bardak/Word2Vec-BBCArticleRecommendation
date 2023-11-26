@@ -1,6 +1,6 @@
 # Article Recommendation Using Word2vec (From the course MSDS692 - Data Acquisiton @USF)
 
-- Summary: Developed an article recommendation model using word2vec from Stanford's GloVe project, trained on Wikipedia, and a corpus of BBC text articles.
+- Summary: Developed an article recommendation engine using word2vec from Stanford's GloVe project, trained on Wikipedia, and a corpus of BBC text articles.
 - Technologies Used: Python, Flask for web server, and PyTest for testing.
 
 # Implementation Details
