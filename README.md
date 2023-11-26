@@ -18,9 +18,8 @@
     - An article route (/article/<topic>/<filename>) for individual articles.
 
 # Functionalities
-Processes the each file line-by-line to build a dictionary of word vectors.
-Each article represented by a centroid in the vector space.
-Similar articles identified based on the closeness of these centroids.
+Processes the each file line-by-line to build a dictionary of word vectors, including all of the unqiue words in the corpus.
+Each article represented by a centroid in the vector space and similar articles identified based on the Euclidean distances between these centroids.
 
 # Web Server and User Interface
 
