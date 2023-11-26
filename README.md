@@ -1,7 +1,6 @@
-# Article Recommendation Engine for BBC Corpus (From the course MSDS692 - Data Acquisiton @USF)
+# Article Recommendation Using Word2vec for BBC Corpus (From the course MSDS692 - Data Acquisiton @USF)
 
-
-- Project Summary: Developed an article recommendation engine using word2vec from Stanford's GloVe project, trained on Wikipedia, and a corpus of BBC text articles.
+- Summary: Developed an article recommendation model using word2vec from Stanford's GloVe project, trained on Wikipedia, and a corpus of BBC text articles.
 - Technologies Used: Python, Flask for web server, Jinja2 for templating, PyTest for testing.
 
 # Implementation Details
@@ -42,4 +41,4 @@ Similar articles identified based on the closeness of these centroids.
     Tested the web server with pytest test_server.py, ensuring it runs correctly and responds as expected.
 
 # Conclusion
-- The project successfully combines NLP techniques with web development to create an article recommendation engine. It demonstrates practical application in processing and recommending content based on text similarity, serving as an effective tool for content discovery.
+- The code succesfully combines NLP techniques with web development to create an article recommendation engine. It demonstrates practical application in processing and recommending content based on text similarity, serving as an effective tool for content discovery.
