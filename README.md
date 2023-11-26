@@ -35,7 +35,7 @@ Each article represented by a centroid in the vector space and similar articles 
   
   <img width="1446" alt="Screenshot 2023-11-23 at 1 18 12 PM" src="https://github.com/eren-bardak/Word2vec-BBCArticleRecommendation/assets/138029233/4c649cab-20ba-4812-8530-e3eae7d88f5f">
 
-- Testing and Validation
+- Testing and Validation:
     Validated the functionality of doc2vec.py using PyTest (test_doc2vec.py).
     Tested the web server with pytest test_server.py, ensuring it runs correctly and responds as expected.
 
