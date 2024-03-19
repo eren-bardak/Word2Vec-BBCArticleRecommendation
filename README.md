@@ -16,7 +16,7 @@
     Users can view a list of articles and select one to read the full text.
     Each article page displays the content along with five recommended articles.
   
-  <p align="center"> <kbd><img width="1500" alt="Screenshot 2023-11-23 at 1 18 12 PM" src="https://github.com/eren-bardak/Word2vec-BBCArticleRecommendation/assets/138029233/4c649cab-20ba-4812-8530-e3eae7d88f5f"></img></kbd> </p>
+  <p align="center"><img width="1500" alt="Screenshot 2023-11-23 at 1 18 12 PM" src="https://github.com/eren-bardak/Word2vec-BBCArticleRecommendation/assets/138029233/4c649cab-20ba-4812-8530-e3eae7d88f5f"></img> </p>
 
 - Testing and Validation:
     Validated the functionality of doc2vec.py using PyTest (test_doc2vec.py).
