@@ -6,7 +6,7 @@
 
 # Web Server and User Interface
 
-<img width="234" alt="Screenshot 2023-11-23 at 1 19 13 PM" src="https://github.com/eren-bardak/Word2vec-BBCArticleRecommendation/assets/138029233/e6dd2b2e-e0fe-4ede-ada0-095d8118434c">
+<p align="center"> <kbd><img width="600" alt="Screenshot 2023-11-23 at 1 19 13 PM" src="https://github.com/eren-bardak/Word2vec-BBCArticleRecommendation/assets/138029233/e6dd2b2e-e0fe-4ede-ada0-095d8118434c"></img></kbd> </p>
 
 - Flask Web Server:
     Built to respond to requests for a list of articles and individual articles.
@@ -16,7 +16,7 @@
     Users can view a list of articles and select one to read the full text.
     Each article page displays the content along with five recommended articles.
   
-  <img width="1446" alt="Screenshot 2023-11-23 at 1 18 12 PM" src="https://github.com/eren-bardak/Word2vec-BBCArticleRecommendation/assets/138029233/4c649cab-20ba-4812-8530-e3eae7d88f5f">
+  <p align="center"> <kbd><img width="1500" alt="Screenshot 2023-11-23 at 1 18 12 PM" src="https://github.com/eren-bardak/Word2vec-BBCArticleRecommendation/assets/138029233/4c649cab-20ba-4812-8530-e3eae7d88f5f"></img></kbd> </p>
 
 - Testing and Validation:
     Validated the functionality of doc2vec.py using PyTest (test_doc2vec.py).
